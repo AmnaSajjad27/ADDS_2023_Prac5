@@ -4,7 +4,7 @@
 #include <vector>
 #include "Sort.h"
 
-Class BubbleSort::public Sort
+class BubbleSort:public Sort
 {
     public:
     virtual std::vector <int> sort(std::vector<int> list);
