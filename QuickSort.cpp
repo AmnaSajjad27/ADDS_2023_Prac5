@@ -50,7 +50,7 @@ std::vector<int> QuickSort::helperfunction(std::vector<int> list, int low, int h
     return list;
 }
 
-    std::vector<int> QuickSort::sort(std::vector<int> list)
-    {
-        return helperfunction(list, 0, list.size()-1);
-    }
+std::vector<int> QuickSort::sort(std::vector<int> list)
+{
+    return helperfunction(list, 0, list.size() - 1);
+}
