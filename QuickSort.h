@@ -1,5 +1,5 @@
-#ifndef QUICKSORT_H
-#define QUICKSORT_H
+#ifndef QUICKSORT
+#define QUICKSORT
 
 #include "Sort.h"
 #include <vector>
