@@ -8,7 +8,7 @@ class BubbleSort:public Sort
 {
     public:
     
-    virtual std::vector <int> sort(std::vector<int> list) override;
+    virtual std::vector<int> sort(std::vector<int> list) override;
     void swap(int &a, int &b);
 };
 
