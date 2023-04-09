@@ -10,8 +10,8 @@ class Sort
     // virtual std::vector<int> sort(std::vector<int> list) = 0;
     // from piazza, define in .h file 
 
-    // virtual std::vector<int> sort(std::vector<int> list) = 0;
-    std::vector<int> sort(std::vector<int> list);
+    virtual std::vector<int> sort(std::vector<int> list) = 0;
+   //  std::vector<int> sort(std::vector<int> list);
 };
 
 #endif
