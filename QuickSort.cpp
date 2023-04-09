@@ -1,6 +1,5 @@
 #include "QuickSort.h"
 #include <vector>
-#include <iostream>
 
 // function to swap the two elements 
 void QuickSort::swap(int &a, int &b)
