@@ -6,7 +6,10 @@
 class Sort 
 {
     public:
-    virtual std::vector<int> sort(std::vector<int> list) = 0;
+    inline virtual std::vector<int> sort(std::vector<int> list)
+    {
+        //nothing
+    }
 };
 
 #endif
