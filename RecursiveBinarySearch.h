@@ -1,4 +1,4 @@
-#ifndef RECURSIVE_BINARY_SEARCH_H
+#ifndef RECURSIVE_BINARY_SEARCH
 #define RECURSIVE_BINARY_SEARCH
 #include <vector>
 
