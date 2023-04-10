@@ -1,5 +1,5 @@
-#ifndef BUBBLESORT
-#define BUBBLESORT
+#ifndef BUBBLESORT_H
+#define BUBBLESORT_H
 
 #include <vector>
 #include "Sort.h"
