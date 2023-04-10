@@ -13,7 +13,7 @@ class QuickSort:public Sort
     std::vector<int> helperfunction(std::vector<int> list, int low, int high);
     void swap(int &a, int &b);
 
-    private:
+    // private:
     int pivot = 0;
 };
 
