@@ -1,4 +1,4 @@
-#include "Bubblesort.h"
+#include "BubbleSort.h"
 #include <vector> 
 
 // function that swaps the two elements
