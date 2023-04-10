@@ -9,7 +9,7 @@ class BubbleSort:public Sort
     public:
     
     // does this need override keyword
-    virtual std::vector<int> sort(std::vector<int> list) override;
+    std::vector<int> sort(std::vector<int> list);
     void swap(int &a, int &b);
 };
 
