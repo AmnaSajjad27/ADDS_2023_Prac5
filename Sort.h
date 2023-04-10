@@ -6,7 +6,7 @@
 class Sort 
 {
     public:
-    virtual std::vector<int> sort(std::vector<int> list)
+    inline virtual std::vector<int> sort(std::vector<int> list)
     {
         //Nothing
     };
